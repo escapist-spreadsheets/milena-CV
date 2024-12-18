@@ -107,7 +107,9 @@ Researcher and data analyst with a strong background in biosciences, currently w
 - Led a working group to address **ketamine addiction**, integrating research findings with institutional experience to develop data-informed strategies.  
 
 ### University of Exeter Psychedelics Colloquium  
+*September 2021 - Present* 
 - Participated in collaborations exploring the therapeutic potential of psychedelics, including working with **Prof. Celia Morgan** on university-non-profit partnerships.  
 
-### MIND Foundation (Freelance Writer)  
+### MIND Foundation (Freelance Writer)
+*September 2021 - September 2022* 
 - Authored articles focusing on the **science and societal implications** of psychedelics, contributing to public understanding of mental health research.  
