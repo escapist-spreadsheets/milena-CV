@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Milena Marinkovic"
@@ -8,115 +7,107 @@ title: "Milena Marinkovic"
 
 **Location:** Bristol  
 **Email:** milena.m.marinkovic@gmail.com  
-**Phone:** +44 (0) 752 3933 970  
+**Phone:** +44 (0) 730 406 8436  
 **LinkedIn:** [linkedin.com/in/marinkovicmilena](https://www.linkedin.com/in/marinkovicmilena)
 
 ---
 
 ## Summary
 
-Researcher and data analyst with a strong background in biosciences, currently working as a Research Officer at Humankind Charity, where I focus on predictive modelling of health outcomes and evaluating nature-based treatment programmes. Skilled in managing large datasets, time series analysis, and advanced statistical methods using Python and R. Developed pipelines combining NLP with human-in-the-loop thematic analysis to derive insights from complex data, such as case notes and interview transcripts, while adhering to Aqua Book guidelines and ensuring GDPR compliance. As the first Research Officer for Humankind (South West), I implemented ONS GitHub tools to create a robust, reproducible coding environment. Experienced in conducting and publishing research, and passionate about applying qualitative insights to inform evidence-based policies and enhance organisational outcomes.
+Researcher and data analyst with a strong background in biosciences, currently working as a Research Officer at Humankind Charity. Experienced in managing large datasets, predictive modelling, and advanced statistical methods using **Python** and **R**. Developed GDPR-compliant pipelines combining NLP with thematic analysis to extract insights from unstructured data, including case notes and interview transcripts. Skilled in time series analysis, clustering, and data visualisation, with a focus on reproducible analytical pipelines using ONS GitHub tools. Passionate about evidence-based policy development, I have a proven track record in collaborating with multidisciplinary teams and delivering results to stakeholders.  
 
 ---
 
 ## Work Experience
 
-### Research Officer
+### Research Officer  
 **Humankind Charity-South West**  
-*October 2022 – Present*
+*October 2022 – Present*  
 
-- Developed predictive models to identify risk factors related to mortality and critical health outcomes using time series analysis on long-term treatment data.
-- Designed and led the impact assessment of the "Flourish in Nature" project, evaluating the effectiveness of nature-based treatments on addiction recovery through qualitative research and NLP analysis.
-- Managed large datasets and implemented ONS GitHub tools, such as RAP and govcookiecutter, to create a reproducible coding environment.
-- Ensured GDPR and DPA compliance of research projects, as well as adherence to Aqua Book guidelines. Liaised with external stakeholders in legal and research ethics departments.
-- Authored reports and contributed to conference abstracts, providing evidence-based insights for organisational decision-making.
-- Led projects in Agile frameworks, coordinating with psychology and computer science students and multidisciplinary teams. Supervised MSc projects.
-- Established collaborations with internal and external stakeholders (e.g., University of Exeter), contributing to the broader research community within Humankind.
+- Managed and cleansed datasets from **Humankind Southwest Halo, Hub**, and legacy **EDP databases** using **Python** (imputation, clustering, string cleaning) and **Excel** for data preparation.  
+- Worked with **NDTMS data** and analysed **KPI reports** produced by the data team to identify trends and track performance metrics.  
+- Developed **NLP pipelines** to anonymise unstructured data, ensuring **GDPR/DPA compliance** in collaboration with internal and external **Data Protection Officers**.  
+- Collaborated with the **Quality and Performance (Q&P)** team to ensure data quality and explore workflow streamlining.  
+- Simultaneously led the **"Deaths in Service" project** and chaired the **Ketamine Working Group**, balancing priorities to deliver actionable insights to stakeholders and commissioners.  
+- Presented findings to **commissioners** and stakeholders, tailoring outputs for technical and non-technical audiences.  
+- Established research collaborations with the **University of Exeter**, supervising MSc students and fostering academic partnerships.  
 
-### Postdoctoral Research Associate
+### Postdoctoral Research Associate  
 **University of Exeter, Exeter**  
-*January 2022 – December 2024*
+*January 2022 – December 2024*  
 
-- Conducted advanced research in invertebrate neurobiology, focusing on molecular biology, transcriptomics, and biophysics.
-- Expertise in confocal and electron microscopy techniques to investigate neurobiological processes at the cellular level.
-- Applied single-cell RNA sequencing (scRNAseq) and phylogenetic methods to explore evolutionary aspects of neurobiology.
-- Employed on a research project funded by an MRC postdoc grant, included in decision-making on budgeting and resource allocation.
+- Conducted interdisciplinary research in **single-cell transcriptomics** and **biophysics**, managing and analysing **large-scale datasets** using **Python (Scanpy)** and **R (Seurat)**.  
+- Applied **time-series analysis** to biomechanical systems and created data visualisations for accessible communication of results.  
+- Presented research findings at **international conferences** to diverse audiences.  
+- Managed research budgets and coordinated with cross-functional teams to achieve project milestones.  
 
-### Researcher/Writer
-**NELIS Global**  
-*January 2021 – December 2021*
-
-- Authored monthly research articles on sustainability topics tailored for Japanese businesses, enhancing engagement and credibility.
-- Conducted thorough research and interviews with industry experts to gather relevant and accurate information.
-- Collaborated with team members to ensure high-quality content and adherence to deadlines.
-- Developed a strong understanding of sustainability practices and their impact on business operations.
-- Produced well-received articles that contributed to increased reader engagement and positive feedback.
-- Portfolio: [bit.ly/Milena-Portfolio-GoogleDrive](https://bit.ly/Milena-Portfolio-GoogleDrive)
-
-### Graduate Research Assistant
+### Graduate Research Assistant  
 **University of Exeter, Exeter**  
-*November 2018 – September 2021*
+*November 2018 – September 2021*  
 
-- Conducted invertebrate neurobiology research, specialising in molecular biology, confocal and electron microscopy, and transcriptomics (scRNAseq).
-- Applied phylogenetic techniques to study evolutionary patterns in neurobiology.
-- Contributed to scientific publications and presented research findings at conferences.
-- Managed and supported laboratory implementation of new scRNAseq protocols, ensuring smooth project execution and data integrity.
-- Led the development and organisation of the EvoCell virtual exhibition ([bit.ly/EvoCell-Exhibition](https://bit.ly/EvoCell-Exhibition)), collaborating with curators from the Berlin Museum of Natural History, UX and web designers within an Agile framework.
-- Collaborated with a multidisciplinary team within the Marie Curie network, fostering international research partnerships and science popularisation. Organised and co-hosted a YouTube lecture series ([evocell-itn.eu/author/milena/](https://evocell-itn.eu/author/milena/))
+- Conducted PhD research in **single-cell transcriptomics**, focusing on gene expression patterns and the evolution of neural circuits in marine biology and neurobiology.  
+- Analysed **large-scale datasets** using **Python** and **R**, employing clustering, dimensionality reduction, and time-series analysis techniques.  
+- Led the **EvoCell virtual exhibition** ([bit.ly/EvoCell-Exhibition](https://bit.ly/EvoCell-Exhibition)), attracting over **25,000 visitors** and collaborating with UX designers, curators, and developers.  
+- Mentored undergraduate students in laboratory protocols, data analysis, and research methodology.  
+- Collaborated with the **Marie Curie network**, promoting science through international partnerships and co-hosting a YouTube lecture series ([evocell-itn.eu](https://evocell-itn.eu/author/milena/)).  
+
+### Freelance Science Writer  
+**2021 – 2022**  
+
+- Authored research articles and reviews, translating complex topics into accessible content for global audiences.  
+- Delivered well-received publications for organisations like the **MIND Foundation** and **NELIS Global**, focusing on sustainability, science, and societal implications.  
+- Portfolio: [bit.ly/Milena-Portfolio-GoogleDrive](https://bit.ly/Milena-Portfolio-GoogleDrive)  
 
 ---
 
-## Education
+## Education  
 
 **PhD in Biology**  
-University of Exeter, Exeter  
-*November 2018 – July 2023*
+*University of Exeter, Exeter* | *November 2018 – July 2023*  
+- Expertise in **Python** for large-scale data analysis, **single-cell transcriptomics**, and **statistical modelling**.  
+- Proficient in **Bash scripting**, **regular expressions (Regex)**, and **server maintenance** to manage computational workflows.  
+- Conducted extensive **data annotation** and analysis, applying clustering, dimensionality reduction, and **time-series modelling**.  
+- Presented findings at **international conferences**, translating complex results into accessible insights.  
 
 **Bachelor's Degree in Molecular Biology**  
-University of Belgrade, Belgrade  
-*September 2013 – June 2017*
+*University of Belgrade, Belgrade* | *September 2013 – June 2017*  
+- Extensive training in **statistics**, **biostatistics**, and **informatics**, showcasing strong computational and analytical abilities.  
 
 ---
 
-## Skills
+## Certifications and Qualifications  
 
-- Data Analysis
-- Time Series Analysis
-- Predictive Modelling
-- Natural Language Processing (NLP)
-- Statistics
-- Agile Methodology
-- GDPR Compliance
-- Python
-- Scientific Communication
-- Reproducible Analytical Pipelines (RAP)
-- Thematic Analysis
+- **Microsoft Power BI Data Analyst Associate (PL-300)** | In Progress (*Expected February 2024*)  
+- **Python for Data Science and Machine Learning Bootcamp** | Udemy (*Completed 2022*)  
+- **IELTS Certification** | Score: **8.5/9** (2021)  
 
 ---
 
-## Certifications and Licenses
+## Skills  
 
-**IELTS**  
-*September 2021 – Present*  
-Passed the IELTS English test with 8.5/9 score on grammar, 8.5/9 writing, and 8/9 speaking.
+- Data Analysis & Visualisation  
+- Predictive Modelling  
+- Time Series Analysis  
+- Natural Language Processing (NLP)  
+- GDPR/DPA Compliance  
+- Python, R, Bash Scripting  
+- Reproducible Analytical Pipelines (RAP)  
+- Agile Project Management  
+- Statistical Modelling  
+- Scientific Communication  
+- Clustering & Dimensionality Reduction  
+- Data Cleaning & Preparation  
 
 ---
 
-## Groups
+## Groups  
 
-### University of Exeter Psychedelics Colloquium
-*Present*
+### Humankind Ketamine Working Group  
+*September 2023 – Present*  
+- Led a working group to address **ketamine addiction**, integrating research findings with institutional experience to develop data-informed strategies.  
 
-- Participated in the Psychedelics Colloquium, contributing to discussions with leading experts on the therapeutic potential of psychedelics and their implications for mental health treatment.
-- Fostered collaboration with psychology PhD students, which included learning thematic analysis techniques.
-- Worked closely with Prof. Celia Morgan on projects exploring collaborations between the non-profit sector and universities, focusing on ketamine addiction and the use of ketamine therapy for addiction.
+### University of Exeter Psychedelics Colloquium  
+- Participated in collaborations exploring the therapeutic potential of psychedelics, including working with **Prof. Celia Morgan** on university-non-profit partnerships.  
 
-### Humankind (Nationwide) Ketamine Working Group
-*September 2023 – Present*
-
-- Led a working group dedicated to integrating research findings with institutional experience to address the rising issue of ketamine addiction. The group focuses on developing strategies for understanding and mitigating the impact of ketamine misuse within the community.
-
-### MIND Foundation (Freelance Writer)
-*January 2022 – January 2023*
-
-- Authored several articles for the MIND Foundation, focusing on the science and societal implications of psychedelics. Articles were well-received, contributing to broader public understanding of psychedelics' role in mental health.
+### MIND Foundation (Freelance Writer)  
+- Authored articles focusing on the **science and societal implications** of psychedelics, contributing to public understanding of mental health research.  
